@@ -6,7 +6,7 @@
 
 - Họ và tên: Trần Thị Như Ý 
 - Mã học viên: 2A202602372
-- Nhóm: K4A
+- Nhóm: D02
 - Candidate problem nhóm chọn: Trông trẻ em nằm nôi
 
 ---
